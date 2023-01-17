@@ -6,6 +6,19 @@
 <br><br><br>
 
 
+### X11
+
+<br><br>
+
+windows 10, 11 (wsl2 + wslg)  
+ubuntu
+
+<br><br>
+
+mac  
+Install XQuartz
+
+<br><br><br>
 
 
 https://user-images.githubusercontent.com/10168979/212465326-541cec19-3b88-442e-b1ca-670e9292367d.mp4
